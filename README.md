@@ -1,2 +1,12 @@
 # Soundscape
-This repository has the preliminary recording of the soundscape I am creating. It has violin elements, drums, and a singing portion. The soundscape is not yet complete. There is sitll a lot of work to be done, but this is the progress I have made so far. The png shows the progress I have been making.
+This soundscape is meant to depict someone running away from something or someeone. There are a lot of different elements to it from the persons running footsteps to the cars on the street in the background. I wanted this soundscape to sound eerie and a little scary. Towards the end of the soundscape, I want to include music elements. That will hopefully tie everything together.
+
+Sources:
+Title: Creator: Website: License:
+1)
+2)
+3)
+4)
+5)
+6)
+7)
